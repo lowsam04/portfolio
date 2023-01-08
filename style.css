@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -38,6 +40,7 @@ body {
 }
 
 .logo {
+  font-family: 'Pacifico', cursive;
   font-size: 1.5rem;
   font-weight: 300;
 }
@@ -100,9 +103,13 @@ body {
   border: 1px solid #cecece;
   border-radius: 10px;
   padding: 10px 30px;
-  text-transform: capitalize;
+  text-transform: none;
   transition: 0.5s;
   margin-right: 20px;
+}
+
+.btn:hover{
+  text-decoration: underline;
 }
 
 .header-img-container {
@@ -244,7 +251,7 @@ body {
 
 .skill-name:hover {
   cursor: #fff;
-  background-color: #9f5264;
+  background: #d1d2d4;
 }
 
 /* project-section */
@@ -267,7 +274,7 @@ body {
 }
 
 .filter-btn.active {
-  background: #9f5264;
+  background: #d1d2d4;
   color: white;
 }
 
