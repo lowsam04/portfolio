@@ -12,7 +12,7 @@ let projectData = [
         name: 'Weather App',
         detail: 'A simple weather app',
         github: 'https://github.com/lowsam04/weather-app-js',
-        live: 'https://github.com/lowsam04/weather-app-js',
+        live: 'https://lowsam04.github.io/weather-app-js/',
         tags: '#javascript, #css,#html'
     },
     {
