@@ -21,8 +21,24 @@ let projectData = [
         detail: 'A simple sign up form',
         github: 'https://github.com/lowsam04/sign-up-form',
         live: 'https://lowsam04.github.io/sign-up-form/',
-        tags: '#html,#css'
+        tags: '#html,#css,#javascript'
     },
+    {
+        image: 'img/Project3.png',
+        name: 'Library App',
+        detail: 'A smal Library app build with html/css, javascript.',
+        github: 'https://github.com/lowsam04/js-library-app',
+        live: 'https://lowsam04.github.io/js-library-app/',
+        tags: '#html,#css,#javascript'
+    },
+    {
+        image: 'img/Project3.png',
+        name: 'Tic Tac Toe-JS',
+        detail: 'A Tic Tac Toe game made by javascript, html and css.',
+        github: 'https://github.com/lowsam04/js-tic-tac-toe',
+        live: 'https://lowsam04.github.io/js-tic-tac-toe/',
+        tags: '#html,#css,#javascript'
+    }
 ]
 
 // creating project cards in frontend
